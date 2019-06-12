@@ -3,7 +3,12 @@ import ReactDOM from "react-dom";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 import Amplify from "aws-amplify";
+<<<<<<< HEAD
 import aws_exports from "./aws-exports"
+=======
+import aws_exports from "./aws-exports";
+
+>>>>>>> 8fe6f8748bef8e3ba54ea6716c168f282a6d3365
 // Bring in default Element React theme
 import "element-theme-default";
 
